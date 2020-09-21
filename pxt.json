@@ -1,0 +1,22 @@
+{
+    "name": "mp3",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "dfplayer": "github:lioujj/pxt-mp3#b4ee0edcbb09c3fa0d03950482ee8ffddf0f82b9",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
